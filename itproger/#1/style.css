@@ -1,0 +1,19 @@
+        body {
+            width: 330px;
+            margin-left: 40%;            
+        }
+        input {
+            width:  200px;
+            height: 15px;
+            padding: 5px 10px 5px 10px;
+            border:1px solid #999;
+            border-radius: 2px;
+            font-size:16px;
+        }
+        .submit {
+            padding: 8px 15px;
+            color: white;
+            background-color: coral;
+            border: none;
+            border-radius: 5px;
+        }
