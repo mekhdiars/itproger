@@ -1,1 +1,1 @@
-## Test project to get acquainted with Git
+# Test project to get acquainted with Git
